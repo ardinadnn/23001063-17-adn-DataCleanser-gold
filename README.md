@@ -28,7 +28,7 @@ Successful deployment will result below.
 
 Social media is a platform where people can express their opinions freely, including hate speech. Hate speech can be related to politics, racism, religion, and so on. In many cases, hate speech is also often accompanied by the use of abusive words. Apart from creating an unhealthy environment, abusive words themselves often distract from the point of the text. Apart from abusive words, slang words are also often used on social media. In fact, these words can make it difficult for readers to understand the text.
 
-Based on these problems, further analysis is needed regarding text cleaning to make it easier to read as well as analyzing the pattern of tweets in cyberspace, both hate speech and non-hate speech, and how they are characterized
+Based on these problems, further analysis is needed regarding text cleaning to make it easier to read as well as analyzing the pattern of tweets in cyberspace, both hate speech and non-hate speech, and how they are characterized.
 
 Therefore, the purpose of this study is to clean the text from abusive words and slang words, identify words related to hate speech, compare hate speech and non-hate speech tweets, and analyze the relationship between hate speech and abusive words.
 </div>
